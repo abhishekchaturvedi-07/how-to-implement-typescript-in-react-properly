@@ -71,4 +71,4 @@ examples/state
 
 # REFS
 *If want to search what type of interface you want to aplly/pass, search in Type Definition file by just start searching with HTMLFormElement for Forms, HTMLInputElement for Input likewise :* 
-"node_modules/@types/react/global.d.ts"
+"node_modules/@types/react/global.d.ts"# how-to-implement-typescript-in-react-properly
