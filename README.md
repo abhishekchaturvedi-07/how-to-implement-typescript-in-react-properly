@@ -63,3 +63,12 @@ examples/state
 -search from state
 
 # TYPES AROUND EVENTS AND REFS
+*Type inference is the ability to automatically deduce, either partially or fully, the type of an expression at compile time. The compiler is often able to infer the type of a variable or the type signature of a function, without explicit type annotations having been given.*
+-Type inference will not applied  when we defined the function Ahead Of Time
+-Type inference will  applied  when we defined the callback function directly inline
+*ALL EVENT HANDLER DEFINTION CAN BE FIND HERE :*
+"node_modules/@types/react/index.d.ts" 
+
+# REFS
+*If want to search what type of interface you want to aplly/pass, search in Type Definition file by just start searching with HTMLFormElement for Forms, HTMLInputElement for Input likewise :* 
+"node_modules/@types/react/global.d.ts"
